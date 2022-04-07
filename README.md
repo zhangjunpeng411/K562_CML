@@ -1,5 +1,5 @@
 # K562_CML
-The K562 dataset includes single-cell miRNA-mRNA co-sequencing data, and putative miRNA-target interactions.
+The K562_CML dataset includes single-cell miRNA-mRNA co-sequencing data, and putative miRNA-target interactions.
 
 miRNA_scRNA_CML: single-cell miRNA expression data (59 CML-related miRNAs)
 
